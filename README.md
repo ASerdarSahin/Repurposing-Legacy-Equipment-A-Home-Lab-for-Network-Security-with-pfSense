@@ -1,4 +1,4 @@
-# WLAN-Security-Applications-Using-pfSense.
+# WLAN-Security-Applications-Using-pfSense
 
  Abstract—I had more than a decade old equipment sitting in
  my room, collecting dust and being an eyesore. I wanted to sell
