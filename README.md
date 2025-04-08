@@ -1,5 +1,4 @@
-# Repurposing Legacy Hardware: A Home Lab for
- Network Security with pfSense
+# Repurposing Legacy Hardware: A Home Lab for Network Security with pfSense
 
  Abstract—This project investigates the viability of transform
 ing legacy computing equipment into a personal network security
