@@ -1,13 +1,13 @@
-# WLAN-Security-Applications-Using-pfSense
+# Repurposing Legacy Hardware: A Home Lab for
+ Network Security with pfSense
 
- Abstract—I had more than a decade old equipment sitting in
- my room, collecting dust and being an eyesore. I wanted to sell
- them, but they practically had no resell value. Before throwing
- them away, I decided to give them a last chance. So I spent
- several of my weekends trying to set up an environment for myself
- to practice network security applications, using the open-source
- pfSense Community Edition to implement a Suricata service, an
- OpenVPN instance, and IP and DNS blocking using pfblockerNG
- while making use of existing hardware.
+ Abstract—This project investigates the viability of transform
+ing legacy computing equipment into a personal network security
+ lab using open-source tools. The key components implemented
+ are Suricata, OpenVPN, and pfBlockerNG within a pfSense
+ setup. The resulting environment supports secure access, intru
+sion detection, and domain/IP filtering, offering a cost-effective
+ alternative for security education and experimentation.
  
-Index Terms—pfsense, legacy equipment, home lab
+ Index Terms—pfsense, legacy equipment, home lab, network
+ security, open-source tools
